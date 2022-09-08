@@ -1,0 +1,1 @@
+export const cloudsUrl = 'https://api.aiven.io/v1/clouds';

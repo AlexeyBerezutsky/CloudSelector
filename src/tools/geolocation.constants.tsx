@@ -1,0 +1,3 @@
+export const promptText = "We need to know your position to determine the nearest cloud. Please allow the use of geo-data";
+export const deniedText = "You denied access to geo-data for this site. We need to know your position to determine the nearest cloud. Please, open Settings => Privacy and security => Site Settings and remove the site from denied.";
+export const unavailableText = "Somwthing weong happened with geo-data for this site. We need to know your position to determine the nearest cloud. Please, open Settings => Privacy and security => Site Settings and reset geolocation setting for the site.";

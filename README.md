@@ -1,5 +1,7 @@
 # Cloud Selector
 
+[PREVIEW](https://cloud-selector.vercel.app/)
+
 A simple tool for cloud server selection.  
 It uses your geolocation and data from [Aiven Cloud API](https://api.aiven.io/doc/#tag/Cloud)
 
